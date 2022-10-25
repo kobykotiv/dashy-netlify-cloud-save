@@ -1,8 +1,8 @@
 ---
 # Page meta info, like heading, footer text and nav links
 pageInfo:
-  title: Dashy with Netlify Automatic Cloudsaves!
-  description: Make some changes and open this url with incognito mode!
+  title: Dashy and Netlify 
+  description: Make some changes and Save
   navLinks:
   - title: GitHub
     path: https://github.com/Lissy93/dashy
